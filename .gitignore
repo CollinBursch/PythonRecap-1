@@ -1,1 +1,4 @@
 .venv/
+.vscode/
+
+print("hello world")
